@@ -96,10 +96,9 @@ evidencias/         prints da execução
 ## Evidências
 
 1. Testes passando (`npm test`): ![testes](evidencias/1-testes.png)
-2. Emulador rodando (`npm start`): ![emulador](evidencias/2-emulador.png)
-3. Chamadas à função (`npm run chamar`): ![chamadas](evidencias/3-chamadas.png)
+2. Chamadas à função (`npm run chamar`): ![chamadas](evidencias/3-chamadas.png)
 
-Vídeo (até 3 min): **COLAR O LINK DO VÍDEO AQUI**
+Vídeo (até 3 min): https://youtu.be/HbjkqRygwks
 
 ## Uso de IA
 
