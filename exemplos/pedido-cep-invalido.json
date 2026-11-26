@@ -1,0 +1,6 @@
+{
+  "pedidoId": "ped_1043",
+  "destinatario": { "nome": "Bruno Lima", "cep": "123", "uf": "PE" },
+  "pesoKg": 0.8,
+  "dimensoes": { "altura": 10, "largura": 15, "profundidade": 10 }
+}

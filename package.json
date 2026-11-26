@@ -1,0 +1,17 @@
+{
+  "name": "origem-guia-envio-serverless",
+  "version": "1.0.0",
+  "description": "Função HTTP serverless do Origem: recebe um pedido e devolve a guia de envio.",
+  "main": "index.js",
+  "scripts": {
+    "start": "functions-framework --target=guiaEnvio --port=8080",
+    "test": "node --test",
+    "chamar": "node scripts/chamar.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.4.0"
+  }
+}

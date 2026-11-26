@@ -1,0 +1,7 @@
+{
+  "pedidoId": "ped_1042",
+  "opcaoEnvioId": "expresso",
+  "destinatario": { "nome": "Ana Souza", "cep": "01310100", "uf": "SP" },
+  "pesoKg": 1.2,
+  "dimensoes": { "altura": 20, "largura": 30, "profundidade": 15 }
+}

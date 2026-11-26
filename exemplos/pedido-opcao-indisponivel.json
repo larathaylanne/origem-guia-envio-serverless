@@ -1,0 +1,7 @@
+{
+  "pedidoId": "ped_1044",
+  "opcaoEnvioId": "drone",
+  "destinatario": { "nome": "Carla Melo", "cep": "50030-230", "uf": "PE" },
+  "pesoKg": 2,
+  "dimensoes": { "altura": 25, "largura": 25, "profundidade": 25 }
+}
